@@ -8,6 +8,8 @@ Huge thanks to Mo for Creating the original game.
 
 Enjoy!
 
+Download is in the releases.
+
 Known bugs:
   1. You can still drive when climbing.
   2. It is possible to get counted for two hangar rungs at the same time
