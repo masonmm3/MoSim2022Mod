@@ -12,7 +12,7 @@ Download is in the releases.
 
 Known bugs:
   1. You can still drive when climbing.
-  2. It is possible to get counted for two hangar rungs at the same time
+  2. It is possible to get counted for two hangar rungs at the same time (as such any score submisions should show the score screen to be able to identify if point need deducted)
   3. Some robots use climbs with illegal extensions due to controls differences in real life.
   4. Driver station cam allows for walking between stations and off the map.
   5. longer load times than vanilla
