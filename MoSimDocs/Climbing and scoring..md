@@ -1,4 +1,4 @@
-9999 features a 2 stage climber. The only climber which has a generic script. "Two Stage Y Axis Climber"
+9999 features a 2 stage climber. The only climbers which have a generic script. are "Two Stage Y Axis Climber" "One Stage Y Axis Climber"
 
 I Highly advise against starting with any radial/"windmill" style climber. Climbers that feature prominent passive elements like 6328 are also extremely difficult to get right.
 
