@@ -16,7 +16,6 @@ The next step is to setup the drive train.
 		6366/6328
 	Once you have copy and pasted driveTrain into the new prefab you want to first make sure the model is roughly centered on the existing wheels then open the drop down. on Drive Train
 	![Pasted image 20241023203610](https://github.com/user-attachments/assets/35caf3e8-0666-400b-a1b4-2a6c892b5e11)
-
 	This will reveal Raycast and Wheels. Open these drop down and line the wheels up appropriatly. ( do not change height)
 	Then check the height and lower the model if its too high or raise the model if its too low
 	Copy and paste bumpers over from any robot other than 1678
@@ -27,7 +26,7 @@ The next step is to setup the drive train.
 		Drive Controller
 		Player Input
 	Your inspector should now look like this
-	![[Pasted image 20241023204442.png]]
+	![Pasted image 20241023204442](https://github.com/user-attachments/assets/307771d9-3856-43a5-b84b-a905bb39afb0)
 	Starting with Drive Controller we need to do the following
 		Robot Type: leave as is
 		Drive Train: Swerve
@@ -41,7 +40,7 @@ The next step is to setup the drive train.
 		Skip the next two
 		Bumper: Same thing as Bumper Numbers but the bumper models that change color from blue to red
 	Your Drive Controller should now look like this.
-	![[Pasted image 20241023204954.png]]
+	![Pasted image 20241023204954](https://github.com/user-attachments/assets/db58047d-ce37-4d56-9252-979ed94ce6e0)
 	Next step is to set up the player input. This is what actually tells the robot to do things.
 	 First:
 		 set actions to Crescendo by clicking the circle on the right
@@ -56,7 +55,8 @@ The next step is to setup the drive train.
 		Do the same for Rotate and Restart
 		For move camera select "Walk" from the list of options on DriveController
 	Player Input Should now Look Like This
-	![[Pasted image 20241023205313.png]]
+	![Pasted image 20241023205313](https://github.com/user-attachments/assets/7363e53c-ed32-461d-866b-e28b5de4057d)
+
 
 Now is a good time to test.
 	To do so we want to save. then go to the Scenes folder and double click Crescendo
@@ -82,7 +82,8 @@ Cargo 1 should be closest to the shooter its the (1st cargo in and 1st cargo out
 Cargo 2 should be closest to intake It might be easier to change pivot local to center local.
 
 Your prefab should now look something like this
-![[Pasted image 20241023210322.png]]
+![Pasted image 20241023210322](https://github.com/user-attachments/assets/616e06f3-1814-42fa-bc61-0007992f879f)
+
 
 We now want to add a CargoHandler script to the 9999 object similar to the drive controller
 Setup:
@@ -98,7 +99,8 @@ Setup:
 	Flywheel Acceleration: constant acceleration in RPM/s 6500/7500
 	Flywheel resource: set to shooting.sfx unless custom flywheel sounds are wanted
 Your Cargo Handler should now look something like this 
-![[Pasted image 20241023210630.png]]
+![Pasted image 20241023210630](https://github.com/user-attachments/assets/546a131a-2704-4c06-a696-6b402d9803e6)
+
 Now setup the player input for shoot, lowShoot and intake
 	Once done click on the intake collider you pasted and adjust the sizing. set it to the element num +1 (1 for single intakes) of the intake path you want it to use
 
@@ -106,4 +108,4 @@ This is another good opportunity to test.
 	In this scenario I wont worry with making sure shots go in but if you want a fixed speed you may need to.
 
 Next step
-[[Unique Robot Systems]]
+[[[Unique Robot Systems]]](https://github.com/masonmm3/MoSim2022Mod/blob/main/MoSimDocs/Unique%20Robot%20Systems.md)
