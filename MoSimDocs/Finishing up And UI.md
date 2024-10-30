@@ -6,6 +6,7 @@ Next find some photos of the robot and import them to Imports>2022>Images. Then 
 
 
 Now go to Other and click Blue Robot Selector. Click the plus to add a new robot to the list then fill out the information and add your photo you imported. then repeat with the Red Selector
+
 ![Pasted image 20241024164545](https://github.com/user-attachments/assets/ffe5764f-fc5f-4d9b-9d32-9c66e4074c4c)
 Now change to the Main Menu scene. Make sure to save the Crescendo scene If you haven't already.
 
