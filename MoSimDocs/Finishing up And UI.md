@@ -1,6 +1,7 @@
 Back in the Crescendo scene click Robot spawn controller and drag the new bot back to the bottom of the list..
 
 Next find some photos of the robot and import them to Imports>2022>Images. Then click it and set it to Sprite2d single
+
 ![Pasted image 20241024164313-1](https://github.com/user-attachments/assets/7fb9bbe9-3e4f-4ead-a7cd-ef13d837c485)
 
 
