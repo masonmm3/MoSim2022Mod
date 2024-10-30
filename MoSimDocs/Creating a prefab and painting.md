@@ -10,8 +10,9 @@ We create a Prefab by going to
 	Double click the prefab to open it.
 	Once in drag 9999 Cad in the Custom Folder into the scene
 	It should look like this
-![Pasted image 20241023200105](https://github.com/user-attachments/assets/5f88051c-b7d1-4e43-ba19-3709c3947ccb)
-	Set positions to zero
+	![Pasted image 20241023200105](https://github.com/user-attachments/assets/5f88051c-b7d1-4e43-ba19-3709c3947ccb)
+	
+ Set positions to zero
 	select 9999 (The prefab) And change the scale to 5.85 on all axis
 	Then double click a part to open it up. on The right hand side you have the inspector.
 	Within the inspector you will see an ID number next to a color
