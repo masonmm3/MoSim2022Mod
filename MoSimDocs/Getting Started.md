@@ -10,11 +10,12 @@ Next download the source code from
 ...
 
 Install blender and unity hub. Open unity hub. Then click the Open button in unity hub.
-![[Pasted image 20241023193932.png]]
+![Pasted image 20241023193932](https://github.com/user-attachments/assets/7f88074c-57a7-41a6-af76-99c9ba38334c)
+
 
 This will ask you to install a specific version of unity for the mod.
 
 You can then open the editor.
 
 Step 2:
-[[Getting a robot model]]
+[[[Getting a robot model]]](https://github.com/masonmm3/MoSim2022Mod/blob/main/MoSimDocs/Getting%20a%20robot%20model.md)
