@@ -27,7 +27,8 @@ The next step is to setup the drive train.
 		Player Input
 	Your inspector should now look like this
 	![Pasted image 20241023204442](https://github.com/user-attachments/assets/307771d9-3856-43a5-b84b-a905bb39afb0)
-	Starting with Drive Controller we need to do the following
+	
+ Starting with Drive Controller we need to do the following
 		Robot Type: leave as is
 		Drive Train: Swerve
 		Bumper Numbers: Drag each BumberNumber object over to the Bumper Numbers list in the inspector to have them auto added
