@@ -6,8 +6,7 @@ https://unity.com/download
 Secondly you are going to want to download blender. The latest LTS release is plenty
 https://www.blender.org/download/
 
-Next download the source code from 
-...
+Next download the source code from: https://drive.google.com/drive/folders/1Ds6oO2akQrcnI3XXU5cHcbBXkowqjGSO?usp=drive_link 
 
 Install blender and unity hub. Open unity hub. Then click the Open button in unity hub.
 ![Pasted image 20241023193932](https://github.com/user-attachments/assets/7f88074c-57a7-41a6-af76-99c9ba38334c)
