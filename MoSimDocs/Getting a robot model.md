@@ -1,4 +1,3 @@
-#frc #MoSim #RapidReact
 Locate a robot and cad. This can sometimes be through F360, .step on grabcad, or onshape.
 
 In this guide we will be working on a bot designed specifically for this guide.
