@@ -1,5 +1,3 @@
-#frc #MoSim #RapidReact
-
 We create a Prefab by going to 
 	Prefabs>Robots in the Project list in the bottom Left
 	Then right clicking the the area where the other robots are Create>Prefab
