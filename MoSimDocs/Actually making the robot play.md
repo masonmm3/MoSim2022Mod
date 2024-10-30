@@ -42,7 +42,8 @@ The next step is to setup the drive train.
 		Bumper: Same thing as Bumper Numbers but the bumper models that change color from blue to red
 	Your Drive Controller should now look like this.
 	![Pasted image 20241023204954](https://github.com/user-attachments/assets/db58047d-ce37-4d56-9252-979ed94ce6e0)
-	Next step is to set up the player input. This is what actually tells the robot to do things.
+	
+ Next step is to set up the player input. This is what actually tells the robot to do things.
 	 First:
 		 set actions to Crescendo by clicking the circle on the right
 		 set Default scheme to 1
@@ -56,7 +57,8 @@ The next step is to setup the drive train.
 		Do the same for Rotate and Restart
 		For move camera select "Walk" from the list of options on DriveController
 	Player Input Should now Look Like This
-	![Pasted image 20241023205313](https://github.com/user-attachments/assets/7363e53c-ed32-461d-866b-e28b5de4057d)
+ 
+![Pasted image 20241023205313](https://github.com/user-attachments/assets/7363e53c-ed32-461d-866b-e28b5de4057d)
 
 
 Now is a good time to test.
