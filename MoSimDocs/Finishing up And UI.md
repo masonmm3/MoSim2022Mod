@@ -1,10 +1,11 @@
 Back in the Crescendo scene click Robot spawn controller and drag the new bot back to the bottom of the list..
 
 Next find some photos of the robot and import them to Imports>2022>Images. Then click it and set it to Sprite2d single
-![[Pasted image 20241024164313.png]]
+![Pasted image 20241024164313-1](https://github.com/user-attachments/assets/7fb9bbe9-3e4f-4ead-a7cd-ef13d837c485)
+
 
 Now go to Other and click Blue Robot Selector. Click the plus to add a new robot to the list then fill out the information and add your photo you imported. then repeat with the Red Selector
-![[Pasted image 20241024164545.png]]
+![Pasted image 20241024164545](https://github.com/user-attachments/assets/ffe5764f-fc5f-4d9b-9d32-9c66e4074c4c)
 Now change to the Main Menu scene. Make sure to save the Crescendo scene If you haven't already.
 
 Click play and change robot. This will throw errors we will deal with them latter.
@@ -20,7 +21,8 @@ Once done you will need to open The menu image in Gimp or Photoshop or whatever 
 Export then import to the same place as the previous, then open canvas and click panel in the main menu scene.
 
 Replace the source image to make sure it looks good, once your happy add it to the BackDrop Selctor script on panel.
-![[Pasted image 20241024170529.png]]
+![Pasted image 20241024170529](https://github.com/user-attachments/assets/788c0b8b-dd0c-4a59-8580-0939991f4670)
+
 
 Now Import your Climb Images to Imports>2022>ClimbTutorials>(newFolder)9999
 
