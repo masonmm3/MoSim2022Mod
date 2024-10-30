@@ -102,6 +102,7 @@ Setup:
 	Flywheel Acceleration: constant acceleration in RPM/s 6500/7500
 	Flywheel resource: set to shooting.sfx unless custom flywheel sounds are wanted
 Your Cargo Handler should now look something like this 
+
 ![Pasted image 20241023210630](https://github.com/user-attachments/assets/546a131a-2704-4c06-a696-6b402d9803e6)
 
 Now setup the player input for shoot, lowShoot and intake
