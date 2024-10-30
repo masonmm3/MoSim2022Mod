@@ -15,7 +15,8 @@ The next step is to setup the drive train.
 	Tank
 		6366/6328
 	Once you have copy and pasted driveTrain into the new prefab you want to first make sure the model is roughly centered on the existing wheels then open the drop down. on Drive Train
-	 (https://github.com/masonmm3/MoSim2022Mod/blob/main/MoSimDocs/Pictures/Pasted%20image%2020241023203610.png?raw=true)
+	![Pasted image 20241023203610](https://github.com/user-attachments/assets/35caf3e8-0666-400b-a1b4-2a6c892b5e11)
+
 	This will reveal Raycast and Wheels. Open these drop down and line the wheels up appropriatly. ( do not change height)
 	Then check the height and lower the model if its too high or raise the model if its too low
 	Copy and paste bumpers over from any robot other than 1678
