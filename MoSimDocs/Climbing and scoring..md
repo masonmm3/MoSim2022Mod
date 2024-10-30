@@ -26,6 +26,7 @@ Now Create a new child on Climber named Hook. add three empty objects and add bo
 
 Now return to 9999 and add a Two Stage Y Axis Climber.
 set Extend to Climber, Mid Stage to Middle Climber. Usually target distance should be set to 4.0-4.5. Use mid stage offset if the mid stage is not at the right Hight on the climber stage when moving. Then add it to player input under ClimbX.
+
 ![Pasted image 20241024162237](https://github.com/user-attachments/assets/d892eb45-ffac-4240-9cfc-e1378fed65c0)
 
 
