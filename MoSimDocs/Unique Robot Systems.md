@@ -5,11 +5,13 @@ Now its time to start working on robot subsystems.
 	 Then connect the joint to the robot. (Four bar is more difficult look at an existing bot for an example)
 	Go to 9999 then add a flip intake to the component list. add the hinge joint. if its already deployed check flipped state. assign it to the player input and adjust from there.
 	![Pasted image 20241023212221](https://github.com/user-attachments/assets/c5c1a6dd-aaab-4f4b-bad4-1b7340dfe9a3)
-	Once you have identified your setpoints I highly recommend setting limits on the intake joint.
+	
+ Once you have identified your setpoints I highly recommend setting limits on the intake joint.
 
 The next step of an intake is giving it an attraction force. open 1678s prefab. Intake>MainFourBar Then capy RollerBar
 
 Paste and make it a child of intake pivot
+
 ![Pasted image 20241023212802](https://github.com/user-attachments/assets/2a945478-701b-4663-b7e2-84869c9c6af1)
 
 Within Roller bar is a bunch of models. just delete these. now move the roller bar and reconnect the joint on it, this time to Intake Pivot.
