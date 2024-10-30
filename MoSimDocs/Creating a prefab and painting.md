@@ -17,7 +17,8 @@ We create a Prefab by going to
 	Then double click a part to open it up. on The right hand side you have the inspector.
 	Within the inspector you will see an ID number next to a color
 ![Pasted image 20241023200508](https://github.com/user-attachments/assets/4a2317e9-e0c8-4686-8a05-eff0301a055b)
-	In this case 0.917647
+	
+ In this case 0.917647
 	Back in Custom>Robots select the robot model in the inspector you will see a list.
 	Find the previous id number. And click material and change it to an existing material of the right color. Then scroll to the bottom and click apply
 	Repeat until most major components are recolored
