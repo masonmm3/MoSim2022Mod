@@ -12,7 +12,7 @@ Enjoy!
 
 Download is in the releases.
 
-Robots available to play in the Latest Stable Release:
+Robots available to play in the Latest V2.0 Release:
  - 1678
  - 2974
  - 6366
