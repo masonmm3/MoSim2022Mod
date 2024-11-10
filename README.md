@@ -13,15 +13,15 @@ Enjoy!
 Download is in the releases.
 
 Robots available to play in the Latest Stable Release:
- 1678
- 2974
- 6366
- 06366
- 6800
- 6328
- 118
- 2910
- 4481
- 9999
- West Coast Products 2022 Competitive Concept
- 1577
+ - 1678
+ - 2974
+ - 6366
+ - 06366
+ - 6800
+ - 6328
+ - 118
+ - 2910
+ - 4481
+ - 9999(custom documentation Robot)
+ - West Coast Products 2022 Competitive Concept
+ - 1577
