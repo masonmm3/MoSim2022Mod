@@ -25,3 +25,4 @@ Robots available to play in the Latest V2.0 Release:
  - 9999(custom documentation Robot)
  - West Coast Products 2022 Competitive Concept
  - 1577
+ - 1690
